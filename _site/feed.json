@@ -1,0 +1,37 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Secret Nodes Blog",
+    "home_page_url": "http://localhost:4000/",
+    "feed_url": "http://localhost:4000/feed.json",
+    "description": "Secret Nodes - Securing the decentralized web!",
+    "icon": "http://localhost:4000/apple-touch-icon.png",
+    "favicon": "http://localhost:4000/favicon.ico",
+    "expired": false,
+    
+    "author": "{"name"=>nil, "email"=>nil, "url"=>nil, "avatar"=>nil}",
+    
+"items": [
+    
+        {
+            "id": "http://localhost:4000/2019/11/12/secretnodes-refresh",
+            "title": "Secretnodes.org New Logo!",
+            "summary": "Today we’re excited to share our new logo with everyone!",
+            "content_text": "A Fresh StartToday we’re excited to share our new logo with everyone! The first version of our site featured a logo largely borrowed from Enigma team’s logo. As Enigma approaches the launch of mainnet, we wanted Secret Nodes to have it’s own identity.Studies demonstrate that people recognize and relate to imagery faster and better then text, and thus this design was important to us. The logo, created through collaboration with Johnny Theophilus, represents Secretnodes’ ability to hide sensitive data within a Trusted Execution Environment. Reminiscent of the Eye of Providence, the logo hints at keeping a watch over private keys as it features a pupil in the shape of a key.  ”Want to build a better internet? Solve for privacy.”Secretnodes.org MissionSeceretnodes.org has deep roots in the crypto space. Secretnodes.org is a community-led group who care about privacy, security, and data rights. We are dedicated to supporting secret node runners. Secretnodes.org founder, Ian Dixon, started Bitcoin mining pools as early as 2011 and has been an avid node runner in Proof of Stake Protocols since their inception. Brendan Kittredge joined forces with Ian to provide business insight after much time spent supporting Enigma through the Enigma Collective. The team compliments each other well and hopes to have contributions from many others that share their passion for privacy and belief in decentralized technologies as time moves on.",
+            "content_html": "<p><img src=\"/img/logo-blk.png\" alt=\"NewLogo\" /></p><h2 id=\"a-fresh-start\">A Fresh Start</h2><p>Today we’re excited to share our new logo with everyone! The first version of our site featured a logo largely borrowed from Enigma team’s logo. As Enigma approaches the launch of mainnet, we wanted Secret Nodes to have it’s own identity.</p><p>Studies demonstrate that people recognize and relate to imagery faster and better then text, and thus this design was important to us. The logo, created through collaboration with Johnny Theophilus, represents <em>Secretnodes’</em> ability to hide sensitive data within a Trusted Execution Environment. Reminiscent of the Eye of Providence, the logo hints at keeping a watch over private keys as it features a pupil in the shape of a key.</p><blockquote>  <p>”Want to build a better internet? Solve for privacy.”</p></blockquote><h2 id=\"secretnodesorg-mission\">Secretnodes.org Mission</h2><p>Seceretnodes.org has deep roots in the crypto space. Secretnodes.org is a community-led group who care about <strong>privacy</strong>, <strong>security</strong>, and <strong>data rights</strong>. We are dedicated to supporting secret node runners. Secretnodes.org founder, Ian Dixon, started Bitcoin mining pools as early as 2011 and has been an avid node runner in Proof of Stake Protocols since their inception. <a href=\"https://blog.enigma.co/meet-the-enigma-ambassadors-2-brendan-kittredge-2b3ebc0417c6\">Brendan Kittredge</a> joined forces with Ian to provide business insight after much time spent supporting Enigma through the <a href=\"https://blog.enigma.co/introducing-the-enigma-collective-3b5cefdda167\">Enigma Collective</a>. The team compliments each other well and hopes to have contributions from many others that share their passion for privacy and belief in decentralized technologies as time moves on.</p>",
+            "url": "http://localhost:4000/2019/11/12/secretnodes-refresh",
+            
+            
+            
+            
+            
+            "date_published": "2019-11-12T00:00:00-08:00",
+            "date_modified": "2019-11-12T00:00:00-08:00",
+            
+                "author": 
+                "{"name"=>nil, "email"=>nil, "url"=>nil, "avatar"=>nil}"
+                
+            
+        }
+    
+    ]
+}

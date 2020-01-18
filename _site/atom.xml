@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Secret Nodes Blog</title>
+ <link href="http://localhost:4000/atom.xml" rel="self"/>
+ <link href="http://localhost:4000/"/>
+ <updated>2020-01-18T13:54:56-08:00</updated>
+ <id>http://localhost:4000</id>
+ <author>
+   <name></name>
+   <email></email>
+ </author>
+
+ 
+ <entry>
+   <title>Secretnodes.org New Logo!</title>
+   <link href="http://localhost:4000/2019/11/12/secretnodes-refresh"/>
+   <updated>2019-11-12T00:00:00-08:00</updated>
+   <id>http://localhost:4000/2019/11/12/secretnodes-refresh</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/img/logo-blk.png&quot; alt=&quot;NewLogo&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;a-fresh-start&quot;&gt;A Fresh Start&lt;/h2&gt;
+
+&lt;p&gt;Today we’re excited to share our new logo with everyone! The first version of our site featured a logo largely borrowed from Enigma team’s logo. As Enigma approaches the launch of mainnet, we wanted Secret Nodes to have it’s own identity.&lt;/p&gt;
+
+&lt;p&gt;Studies demonstrate that people recognize and relate to imagery faster and better then text, and thus this design was important to us. The logo, created through collaboration with Johnny Theophilus, represents &lt;em&gt;Secretnodes’&lt;/em&gt; ability to hide sensitive data within a Trusted Execution Environment. Reminiscent of the Eye of Providence, the logo hints at keeping a watch over private keys as it features a pupil in the shape of a key.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;”Want to build a better internet? Solve for privacy.”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;secretnodesorg-mission&quot;&gt;Secretnodes.org Mission&lt;/h2&gt;
+
+&lt;p&gt;Seceretnodes.org has deep roots in the crypto space. Secretnodes.org is a community-led group who care about &lt;strong&gt;privacy&lt;/strong&gt;, &lt;strong&gt;security&lt;/strong&gt;, and &lt;strong&gt;data rights&lt;/strong&gt;. We are dedicated to supporting secret node runners. Secretnodes.org founder, Ian Dixon, started Bitcoin mining pools as early as 2011 and has been an avid node runner in Proof of Stake Protocols since their inception. &lt;a href=&quot;https://blog.enigma.co/meet-the-enigma-ambassadors-2-brendan-kittredge-2b3ebc0417c6&quot;&gt;Brendan Kittredge&lt;/a&gt; joined forces with Ian to provide business insight after much time spent supporting Enigma through the &lt;a href=&quot;https://blog.enigma.co/introducing-the-enigma-collective-3b5cefdda167&quot;&gt;Enigma Collective&lt;/a&gt;. The team compliments each other well and hopes to have contributions from many others that share their passion for privacy and belief in decentralized technologies as time moves on.&lt;/p&gt;
+</content>
+ </entry>
+ 
+
+</feed>
