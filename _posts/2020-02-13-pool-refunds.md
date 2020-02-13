@@ -6,7 +6,7 @@ summary: Refund
 tags: [refunds]
 ---
  
-## When mainnet?
+## Thanks for trusting us
  
 As of today we no longer require custody of user funds to operate a pool for stakers, for this reason we have decided to process refunds immediately. Note, these transactions account for **all public deposits**. Everyone will be welcome to stake with secretnodes.org when the time comes. We are humbled by those of you who trusted us and happy to say we will not need custody of funds going forward!
 
