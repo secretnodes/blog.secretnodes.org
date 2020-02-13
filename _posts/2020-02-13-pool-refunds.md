@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pre-Mainnet Refunds
+title: Early Staker Refunds
 Description: Thanks for trusting us.
 summary: Refund
 tags: [refunds]
