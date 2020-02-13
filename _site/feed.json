@@ -13,6 +13,27 @@
 "items": [
     
         {
+            "id": "http://localhost:4000/2020/01/10/pool-refunds",
+            "title": "Pre-Mainnet Refunds",
+            "summary": null,
+            "content_text": "Thanks for trusting us.With the news that mainnet is fast approaching and recent changes that remove the need for staking providers to take custody, we have decided to process refunds immediately. Note, these transactions account for all public deposits. Everyone will be welcome to stake with us on mainnet!            Deposit Transaction      Amount      Refund TX                  0x64ed2d13ddbe6ae01cf80f32ee6f71ebdb663b6e      10,507.839      Refund TX              0xca620c2c346b9c1206d519da395805aefc45ac9a      1,502.06534847      Refund TX              0x9c7b84be5d69bb41a718a4af921e44730a277f90      2,553      Refund TX              0xdf4be75f9c675ef83357b18d2dd8d0d69cb1e91c      1,566.84760089      Refund TX      ",
+            "content_html": "<h2 id=\"thanks-for-trusting-us\">Thanks for trusting us.</h2><p>With the news that mainnet is fast approaching and recent changes that remove the need for staking providers to take custody, we have decided to process refunds immediately. Note, these transactions account for <strong>all public deposits</strong>. Everyone will be welcome to stake with us on mainnet!</p><table>  <thead>    <tr>      <th>Deposit Transaction</th>      <th style=\"text-align: center\">Amount</th>      <th style=\"text-align: right\">Refund TX</th>    </tr>  </thead>  <tbody>    <tr>      <td><a href=\"https://etherscan.io/tx/0xc2d1da77496e6a65e6f99a1578329737e9a390e5e61d5a5bb2bd0f583e1e6248\">0x64ed2d13ddbe6ae01cf80f32ee6f71ebdb663b6e</a></td>      <td style=\"text-align: center\">10,507.839</td>      <td style=\"text-align: right\"><a href=\"https://PUT-ETH-SCAN-TX-LINK-HERE.COM\">Refund TX</a></td>    </tr>    <tr>      <td><a href=\"https://etherscan.io/tx/0x465a7da66efb8be9bfb4c275fb93f958d2c3180099a8ac514ed94ef1e6375af2\">0xca620c2c346b9c1206d519da395805aefc45ac9a</a></td>      <td style=\"text-align: center\">1,502.06534847</td>      <td style=\"text-align: right\"><a href=\"https://PUT-ETH-SCAN-TX-LINK-HERE.COM\">Refund TX</a></td>    </tr>    <tr>      <td><a href=\"https://etherscan.io/tx/0x96c456c2fe4d40ae1db30a1284f19b124569565390b13a08d82f33ff242935fb\">0x9c7b84be5d69bb41a718a4af921e44730a277f90</a></td>      <td style=\"text-align: center\">2,553</td>      <td style=\"text-align: right\"><a href=\"https://PUT-ETH-SCAN-TX-LINK-HERE.COM\">Refund TX</a></td>    </tr>    <tr>      <td><a href=\"https://etherscan.io/tx/0xdc450cc480b0ff54895189d4db95f65c385faaba03449e3880027b80636ca28a\">0xdf4be75f9c675ef83357b18d2dd8d0d69cb1e91c</a></td>      <td style=\"text-align: center\">1,566.84760089</td>      <td style=\"text-align: right\"><a href=\"https://PUT-ETH-SCAN-TX-LINK-HERE.COM\">Refund TX</a></td>    </tr>  </tbody></table>",
+            "url": "http://localhost:4000/2020/01/10/pool-refunds",
+            
+            
+            
+            
+            
+            "date_published": "2020-01-10T00:00:00-08:00",
+            "date_modified": "2020-01-10T00:00:00-08:00",
+            
+                "author": 
+                "{"name"=>nil, "email"=>nil, "url"=>nil, "avatar"=>nil}"
+                
+            
+        },
+    
+        {
             "id": "http://localhost:4000/2019/11/12/secretnodes-refresh",
             "title": "Secretnodes.org New Logo!",
             "summary": "Today we’re excited to share our new logo with everyone!",
